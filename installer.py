@@ -16,14 +16,7 @@ Head="""
 
 > BlobeVM (Powered by DesktopOnCodespaces)
 
-BlobeVM is a Virtual Machine that...
-* Runs entirely in a web browser
-* Is unblocked
-* Has Windows app support
-* Has audio support
-* Can run games with almost no lag
-* Can Bypass School Network
-* Is very fast
+BlobeVM is a Virtual Machine that runs in a browser
 """
 InstallHead="""
 # BlobeVM Installer
